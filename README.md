@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchrstian&label=Profile%20views&color=0e75b6&style=flat" alt="bchrstian" /> </p>
 
-- 🌱 I’m currently learning **Java Spring for robust backend solutions, unraveling the mysteries of data science, and scripting with shell magic.**
+- 🌱 I’m currently learning **I’m currently learning at Adventist University of Central Africa specializing in Software Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://christian-theta.vercel.app/](https://christian-theta.vercel.app/)
 
