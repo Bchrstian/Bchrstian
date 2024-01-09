@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchrstian&label=Profile%20views&color=0e75b6&style=flat" alt="bchrstian" /> </p>
 
-- 🌱 I’m currently learning ** at Adventist University of Central Africa specializing in Software Engineering.**
+- 🌱 I’m currently learning **at Adventist University of Central Africa specializing in Software Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://christian-theta.vercel.app/](https://christian-theta.vercel.app/)
 
